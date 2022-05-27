@@ -27,6 +27,6 @@ You can view the layout of the project via the link below:
 
 This project is under the MIT license. See the [LICENSE](LICENSE.md) file for more details.
 
-----
+---
 
 Made by Breno.
